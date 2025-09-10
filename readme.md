@@ -29,5 +29,3 @@ LICENSE [MIT](License.md)
 
 GIT logo by [Jason Long](https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%3AGit-logo.svg)
 LICENSE: [CC By 3.0](https://creativecommons.org/licenses/by/3.0/legalcode.en)
-
-
